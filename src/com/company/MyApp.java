@@ -1,7 +1,7 @@
 package com.company;
 
 import java.util.Scanner;
-
+// adding a comment to project 5
 public class MyApp {
     public static void main(String[] argv) {
 
